@@ -20,12 +20,12 @@ Frontend interface built with HTML, CSS, and JavaScript for easier interaction w
 
 Simple and clean project structure for educational purposes.
 
-/FLASKS-CRUD
-│
-├── static/ # CSS and client-side JavaScript files
-├── templates/ # HTML templates
-├── app.py # Main application file
-└── README.md # Project documentation
+- /FLASKS-CRUD
+- │
+- ├── static/ # CSS and client-side JavaScript files
+- ├── templates/ # HTML templates
+- ├── app.py # Main application file
+- └── README.md # Project documentation
 
 ## Requirements
 
